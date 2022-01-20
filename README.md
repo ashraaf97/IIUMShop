@@ -1,6 +1,6 @@
 # IIUMShop
 A simple e-commerce app using React Native
-This app is originally built with Expo CLI. Changing to React Native CLI may requires different library.
+This app is originally built with Expo CLI. Changing to React Native CLI may requires different library. This App use firebase as backend.
 
 ### Requirement
 
